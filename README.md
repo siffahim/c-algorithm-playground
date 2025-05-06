@@ -1,1 +1,1 @@
-# c-algorithm-playground
+# Algorithm
